@@ -49,3 +49,7 @@ Result will be
 ## Subclassing
 
 Use `require('ops').Ops` to get class providing ops functionality. You can subclass and then use an instance of your subclass instead of ops itself.
+
+## License
+
+MIT
